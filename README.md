@@ -18,10 +18,10 @@ The app will take in orders from customers and deplete stock from the store's in
 7. Results will return a total amount summary and update the product inventory
 
 
-<!-- ## Command Example Screenshots
-![Image of Example 1]()
-![Image of Example 2]()
-![Image of Example 3]() -->
+## Command Example Screenshots
+![Image of Example 1](https://github.com/jandony/bamazon/blob/master/AmazonStoreTerminalPhotos/bamazon-product-selection.png)
+![Image of Example 2](https://github.com/jandony/bamazon/blob/master/AmazonStoreTerminalPhotos/bamazon-product-quantity.png)
+![Image of Example 3](https://github.com/jandony/bamazon/blob/master/AmazonStoreTerminalPhotos/bamazon-product-summary.png)
 
 ## Technologies Used in App
 * Inquirer NPM Package -> A collection of common interactive command line user interfaces
